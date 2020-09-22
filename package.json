@@ -1,0 +1,29 @@
+{
+  "name": "busspotting",
+  "version": "1.0.0",
+  "description": "open source busspotting platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overwatchcorp/busspotting.git"
+  },
+  "author": "Jade Fung <jade@fungj.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overwatchcorp/busspotting/issues"
+  },
+  "homepage": "https://github.com/overwatchcorp/busspotting#readme",
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "eslint-plugin-jest": "^24.0.2"
+  }
+}
