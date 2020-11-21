@@ -1,0 +1,25 @@
+{
+  "name": "busspotting",
+  "version": "0.1.0",
+  "description": "open source busspotting platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overwatchcorp/busspotting.git"
+  },
+  "keywords": [
+    "bus",
+    "public",
+    "transportation",
+    "transit"
+  ],
+  "author": "Jade Fung <hello@fungj.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overwatchcorp/busspotting/issues"
+  },
+  "homepage": "https://github.com/overwatchcorp/busspotting#readme"
+}
